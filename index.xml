@@ -8,6 +8,25 @@
     <language>en</language>
     <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://kazukimotohashi.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Japanese</title>
+      <link>https://kazukimotohashi.github.io/japanese/</link>
+      <pubDate>Sun, 14 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://kazukimotohashi.github.io/japanese/</guid>
+      <description>日本での滞在予定や活動などについて書いています。
+2021年 2020年   2020年11月15日のJADE若手会議で&amp;quot;Unintended Consequences of Latrine Construction: Externalities on Water Quality and Health in India&amp;quot;の研究について発表。[2020/11/13]</description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>https://kazukimotohashi.github.io/research/</link>
+      <pubDate>Sun, 14 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://kazukimotohashi.github.io/research/</guid>
+      <description>Work in Progress  Unintended Consequences of Latrine Construction: Externalities on Water Quality and Health in India Impact of Municipal Mergers on Pollution Control: Evidence from Water Quality Change in Japan (joint with Michiyoshi Toya) Perceived Cost and Social Interaction in the Usage of Adopted Technologies: Evidence from Latrines in India  Others  Replication in R of the code in the Banerjee et al.</description>
+    </item>
+    
+    <item>
       <title></title>
       <link>https://kazukimotohashi.github.io/archives/</link>
       <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
@@ -77,15 +96,6 @@
       
       <guid>https://kazukimotohashi.github.io/post/image-test/</guid>
       <description>Thumbnails can be enabled easily by setting the thumbnail parameter in the frontmatter to an image such as &amp;quot;images/landscape.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://kazukimotohashi.github.io/about/</link>
-      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://kazukimotohashi.github.io/about/</guid>
-      <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.</description>
     </item>
     
   </channel>
