@@ -8,22 +8,40 @@
     <language>en</language>
     <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://kazukimotohashi.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Japanese</title>
-      <link>https://kazukimotohashi.github.io/japanese/</link>
-      <pubDate>Sun, 14 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://kazukimotohashi.github.io/japanese/</guid>
-      <description>日本での滞在予定や活動などについて書いています。
-2021年 2020年   2020年11月15日のJADE若手会議で&amp;quot;Unintended Consequences of Latrine Construction: Externalities on Water Quality and Health in India&amp;quot;の研究について発表。[2020/11/13]</description>
-    </item>
-    
-    <item>
       <title>Research</title>
       <link>https://kazukimotohashi.github.io/research/</link>
       <pubDate>Sun, 14 Feb 2021 00:00:00 +0000</pubDate>
       
       <guid>https://kazukimotohashi.github.io/research/</guid>
       <description>Work in Progress  Unintended Consequences of Latrine Construction: Externalities on Water Quality and Health in India Impact of Municipal Mergers on Pollution Control: Evidence from Water Quality Change in Japan (joint with Michiyoshi Toya) Perceived Cost and Social Interaction in the Usage of Adopted Technologies: Evidence from Latrines in India  Others  Replication in R of the code in the Banerjee et al.</description>
+    </item>
+    
+    <item>
+      <title>CV</title>
+      <link>https://kazukimotohashi.github.io/cv/</link>
+      <pubDate>Wed, 10 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://kazukimotohashi.github.io/cv/</guid>
+      <description>Curriculum vitae [pdf version]</description>
+    </item>
+    
+    <item>
+      <title>Japanese</title>
+      <link>https://kazukimotohashi.github.io/japanese/</link>
+      <pubDate>Tue, 09 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://kazukimotohashi.github.io/japanese/</guid>
+      <description>日本での滞在予定や活動などについて書いています。
+2021年  2021年2月18日-20日のSEEPSキャンプに参加し、&amp;ldquo;Unintended Consequences of Latrine Construction: Externalities on Water Quality and Health in India&amp;quot;の研究について発表。[2021/2/14]  2020年   2020年11月15日のJADE若手会議で&amp;quot;Unintended Consequences of Latrine Construction: Externalities on Water Quality and Health in India&amp;quot;の研究について発表。[2020/11/13]</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://kazukimotohashi.github.io/contact/</link>
+      <pubDate>Mon, 10 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://kazukimotohashi.github.io/contact/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -60,15 +78,6 @@
       
       <guid>https://kazukimotohashi.github.io/post/placeholder-text/</guid>
       <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Contact</title>
-      <link>https://kazukimotohashi.github.io/contact/</link>
-      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://kazukimotohashi.github.io/contact/</guid>
-      <description></description>
     </item>
     
     <item>
