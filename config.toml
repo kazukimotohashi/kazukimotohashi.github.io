@@ -22,8 +22,8 @@ pygmentsCodefencesGuessSyntax = true
 [params]
 title = "I'm Kazuki Motohashi"
 author = "Kazuki Motohashi"
-description = "PhD student at Tufts University"
 copyright = "2020-2021"
+description = "PhD student at Tufts University"
 profilePicture = "images/kazuki.png"
 # disableThemeSwitcher = true
 keywords = ""
