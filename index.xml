@@ -12,8 +12,10 @@
       <pubDate>Sat, 15 May 2021 00:00:00 +0000</pubDate>
       
       <guid>https://kazukimotohashi.github.io/japanese/</guid>
-      <description>元橋 一輝 略歴   2018年〜　タフツ大学経済学部・フレッチャースクール　博士課程
+      
+        <description>元橋 一輝 略歴   2018年〜　タフツ大学経済学部・フレッチャースクール　博士課程
   2014年〜2018年　三菱総合研究所　環境・エネルギー研究本部、海外事業本部等　研究員</description>
+      
     </item>
     
     <item>
@@ -22,7 +24,9 @@
       <pubDate>Mon, 26 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>https://kazukimotohashi.github.io/about/</guid>
-      <description>Welcome! I am a PhD student in the Department of Economics and the Fletcher School of of Law and Diplomacy, Tufts University.</description>
+      
+        <description>Welcome! I am a PhD student in the Department of Economics and the Fletcher School of of Law and Diplomacy, Tufts University.</description>
+      
     </item>
     
     <item>
@@ -31,7 +35,9 @@
       <pubDate>Mon, 26 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>https://kazukimotohashi.github.io/cv/</guid>
-      <description>Curriculum vitae [pdf version]</description>
+      
+        <description>Curriculum vitae [pdf version]</description>
+      
     </item>
     
     <item>
@@ -40,7 +46,9 @@
       <pubDate>Mon, 26 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>https://kazukimotohashi.github.io/research/</guid>
-      <description>Work in Progress  Unintended Consequences of Sanitation: Externalities on Water Quality and Health in India Impact of Municipal Mergers on Pollution Control: Evidence from Water Quality Change in Japan (joint with Michiyoshi Toya) Perceived Cost and Social Interaction in the Usage of Adopted Technologies: Evidence from Latrines in India  Others  Replication in R of the code in the Banerjee et al.</description>
+      
+        <description>Work in Progress  Unintended Consequences of Sanitation: Externalities on Water Quality and Health in India Impact of Municipal Mergers on Pollution Control: Evidence from Water Quality Change in Japan (joint with Michiyoshi Toya) Perceived Cost and Social Interaction in the Usage of Adopted Technologies: Evidence from Latrines in India  Others  Replication in R of the code in the Banerjee et al.</description>
+      
     </item>
     
     <item>
@@ -49,7 +57,9 @@
       <pubDate>Mon, 10 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>https://kazukimotohashi.github.io/contact/</guid>
-      <description>Email: Kazuki.Motohashi{at}tufts{dot}edu</description>
+      
+        <description>Email: Kazuki.Motohashi{at}tufts{dot}edu</description>
+      
     </item>
     
   </channel>
