@@ -1,58 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://kazukimotohashi.github.io/japanese/</loc>
     <lastmod>2021-05-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kazukimotohashi.github.io/</loc>
     <lastmod>2021-04-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kazukimotohashi.github.io/cv/</loc>
     <lastmod>2021-04-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://kazukimotohashi.github.io/fujimi/</loc>
+    <lastmod>2021-04-26T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://kazukimotohashi.github.io/misc/</loc>
     <lastmod>2021-04-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kazukimotohashi.github.io/old/about/</loc>
     <lastmod>2021-04-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kazukimotohashi.github.io/research/</loc>
     <lastmod>2021-04-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kazukimotohashi.github.io/teaching/</loc>
     <lastmod>2021-04-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kazukimotohashi.github.io/old/</loc>
     <lastmod>2021-04-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kazukimotohashi.github.io/contact/</loc>
     <lastmod>2020-02-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kazukimotohashi.github.io/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kazukimotohashi.github.io/tags/</loc>
   </url>
-  
 </urlset>
