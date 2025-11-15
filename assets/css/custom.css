@@ -1,0 +1,37 @@
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@400;500;600;700&family=Roboto:wght@400;500;700&display=swap");
+
+body, html {
+  font-family: "Roboto", "Hiragino Kaku Gothic ProN", "BIZ UDPGothic", sans-serif !important;
+}
+
+p {
+  font-family: "Roboto", "Hiragino Kaku Gothic ProN", "BIZ UDPGothic", sans-serif !important;
+  margin: 0.6em 0px;
+  line-height: 1.5em;
+}
+
+ul, ol, ul > li, ol > li {
+  font-family: "Roboto", "Hiragino Kaku Gothic ProN", "BIZ UDPGothic", sans-serif !important;
+  padding-top:-0.3em;
+  padding-bottom:-0.3em;
+  line-height: 1.5em;
+}
+
+h1, h2, h3, h4, h5 ,h6 {
+  font-family: "Raleway", "Hiragino Kaku Gothic ProN", "BIZ UDGothic", sans-serif;
+}
+
+h2 {
+  border-left: solid 5px #D0D0D0;
+	padding: 0.1em 0.5em;
+}
+
+h3 {
+	border-left: solid 5px #E0E0E0;
+	padding: 0.1em 0.5em;
+}
+
+h4 {
+	border-left: solid 5px #F0F0F0;
+	padding: 0.1em 0.5em;
+}

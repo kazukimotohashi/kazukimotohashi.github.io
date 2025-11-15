@@ -1,0 +1,131 @@
+baseURL = "https://kazukimotohashi.github.io/"
+languageCode = "en"
+DefaultContentLanguage = "en"
+title = "Website of Kazuki Motohashi"
+theme = "anatole"
+summarylength = 10
+enableEmoji = true
+enableRobotsTXT = true
+canonifyurls = true
+publishDir = "docs"
+
+# Enable Disqus
+#disqusShortname = ""
+
+# Syntax highlighting
+pygmentsUseClasses = true
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+
+[params]
+title = "Kazuki Motohashi"
+author = "Kazuki Motohashi"
+copyright = "2020-{{ YEAR }} Kazuki Motohashi."
+# description = "PhD Candidate in Economics and Public Policy at Tufts University"
+profilePicture = "images/kazuki2.png"
+# disableThemeSwitcher = true
+keywords = ""
+favicon = "favicons/"
+customCss = ["css/custom.css"]
+# example ["js/custom.js"]
+customJs = []
+gtagId = "G-N9CW3PEYR6"
+mainSections = [""]
+images = ["images/site-feature-image.png"]
+doNotLoadAnimations = false
+# Form Spree Contact Form
+contactFormAction = "https://formspree.io/f/mqkgoezy"
+# Google Site Verify
+googleSiteVerify = "KlhFzunVRdnPEm0lVsZSmGynr68uoxx1si2rTwfDJQ8"
+# indexDateFormat = "Mon, Jan 2, 2006"
+# listDateFormat = "Jan 2"
+# singleDateFormat = "Mon, Jan 2, 2006"
+# contentratio = 0.7
+readMore = true
+
+[params.simpleAnalytics]
+# enable = true
+# customurl = "https://analytics.example.com"
+
+## Math settings
+[params.math]
+enable = true  # options: true, false. Enable math support globally, default: false. You can always enable math on per page.
+use = "katex"  # options: "katex", "mathjax". default is "katex".
+
+## Social links
+# use 'fab' when brand icons, use 'fas' when standard solid icons.
+[[params.socialIcons]]
+icon = "fab fa-linkedin"
+title = "Linkedin"
+url = "https://www.linkedin.com/in/kazuki-motohashi/"
+
+[[params.socialIcons]]
+icon = "fab fa-twitter"
+title = "Twitter"
+url = "https://twitter.com/EconKazuki"
+
+# [[params.socialIcons]]
+# icon = "fab fa-github"
+# title = "GitHub"
+# url = "https://github.com/kazukimotohashi"
+
+# [[params.socialIcons]]
+#icon = "fab fa-instagram"
+# title = "instagram"
+# url = "https://www.instagram.com/"
+
+[[params.socialIcons]]
+icon = "fas fa-envelope"
+title = "e-mail"
+url = "mailto:kazuki.motohashi@r.hit-u.ac.jp"
+
+[[params.socialIcons]]
+icon = "fas fa-file-user"
+title = "CV"
+url = "https://kazukimotohashi.github.io/cv/CV_KazukiMotohashi.pdf"
+
+## Menu items
+
+[menu]
+
+  [[menu.main]]
+  name = "Home"
+  identifier = "home"
+  weight = 100
+  url = "/"
+
+#  [[menu.main]]
+#  name = "Posts"
+#  weight = 200
+#  identifier = "posts"
+#  url = "/post/"
+
+  [[menu.main]]
+  name = "Research"
+  weight = 300
+  identifier = "research"
+  url = "/research/"
+
+  [[menu.main]]
+  name = "Teaching/Students"
+  weight = 400
+  identifier = "teaching"
+  url = "/teaching/"
+
+  [[menu.main]]
+  name = "CV"
+  weight = 500
+  identifier = "cv"
+  url = "/cv/"
+
+  [[menu.main]]
+  name = "Misc."
+  weight = 700
+  identifier = "misc"
+  url = "/misc/"
+
+  [[menu.main]]
+  name = "元橋一輝"
+  weight = 800
+  identifier = "japanese"
+  url = "/japanese/"
