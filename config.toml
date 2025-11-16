@@ -55,7 +55,7 @@ enable = true  # options: true, false. Enable math support globally, default: fa
 use = "katex"  # options: "katex", "mathjax". default is "katex".
 
 ## Social links
-# use 'fab' when brand icons, use 'fas' when standard solid icons.
+# use 'fab' when brand icons, use 'fas' when standard solid icons. Font Awesome 5.
 [[params.socialIcons]]
 icon = "fas fa-envelope"
 title = "e-mail"
@@ -87,7 +87,6 @@ url = "https://www.linkedin.com/in/kazuki-motohashi/"
 # url = "https://www.instagram.com/"
 
 ## Menu items
-
 [menu]
 
   [[menu.main]]
