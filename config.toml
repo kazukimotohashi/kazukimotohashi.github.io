@@ -42,7 +42,7 @@ googleSiteVerify = "KlhFzunVRdnPEm0lVsZSmGynr68uoxx1si2rTwfDJQ8"
 # indexDateFormat = "Mon, Jan 2, 2006"
 # listDateFormat = "Jan 2"
 # singleDateFormat = "Mon, Jan 2, 2006"
-contentratio = 0.7
+# contentratio = 0.7
 readMore = true
 
 [params.simpleAnalytics]
@@ -62,9 +62,9 @@ title = "Linkedin"
 url = "https://www.linkedin.com/in/kazuki-motohashi/"
 
 [[params.socialIcons]]
-icon = "fab fa-twitter"
-title = "Twitter"
-url = "https://twitter.com/EconKazuki"
+icon = "fab fa-x-twitter"
+title = "X"
+url = "https://x.com/EconKazuki"
 
 # [[params.socialIcons]]
 # icon = "fab fa-github"
@@ -82,7 +82,7 @@ title = "e-mail"
 url = "mailto:kazuki.motohashi@r.hit-u.ac.jp"
 
 [[params.socialIcons]]
-icon = "fas fa-file-user"
+icon = "fas fa-file-pdf"
 title = "CV"
 url = "https://kazukimotohashi.github.io/cv/CV_KazukiMotohashi.pdf"
 
