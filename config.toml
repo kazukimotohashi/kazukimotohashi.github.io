@@ -57,14 +57,24 @@ use = "katex"  # options: "katex", "mathjax". default is "katex".
 ## Social links
 # use 'fab' when brand icons, use 'fas' when standard solid icons.
 [[params.socialIcons]]
-icon = "fab fa-linkedin"
-title = "Linkedin"
-url = "https://www.linkedin.com/in/kazuki-motohashi/"
+icon = "fab fa-envelope"
+title = "e-mail"
+url = "mailto:kazuki.motohashi@r.hit-u.ac.jp"
+
+[[params.socialIcons]]
+icon = "fas fa-file"
+title = "CV"
+url = "https://kazukimotohashi.github.io/cv/CV_KazukiMotohashi.pdf"
 
 [[params.socialIcons]]
 icon = "fab fa-x-twitter"
 title = "X"
 url = "https://x.com/EconKazuki"
+
+[[params.socialIcons]]
+icon = "fab fa-linkedin"
+title = "Linkedin"
+url = "https://www.linkedin.com/in/kazuki-motohashi/"
 
 # [[params.socialIcons]]
 # icon = "fab fa-github"
@@ -75,16 +85,6 @@ url = "https://x.com/EconKazuki"
 #icon = "fab fa-instagram"
 # title = "instagram"
 # url = "https://www.instagram.com/"
-
-[[params.socialIcons]]
-icon = "fas fa-envelope"
-title = "e-mail"
-url = "mailto:kazuki.motohashi@r.hit-u.ac.jp"
-
-[[params.socialIcons]]
-icon = "fas fa-file-pdf"
-title = "CV"
-url = "https://kazukimotohashi.github.io/cv/CV_KazukiMotohashi.pdf"
 
 ## Menu items
 
