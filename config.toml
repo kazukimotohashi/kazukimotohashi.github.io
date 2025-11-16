@@ -2,11 +2,13 @@ baseURL = "https://kazukimotohashi.github.io/"
 languageCode = "en"
 DefaultContentLanguage = "en"
 title = "Website of Kazuki Motohashi"
-theme = "anatole"
+# theme = "anatole"
 summarylength = 10
 enableEmoji = true
 enableRobotsTXT = true
 canonifyurls = true
+
+# Hugo output to docs folder
 publishDir = "docs"
 
 # Enable Disqus
@@ -129,3 +131,8 @@ url = "https://kazukimotohashi.github.io/cv/CV_KazukiMotohashi.pdf"
   weight = 800
   identifier = "japanese"
   url = "/japanese/"
+
+# Hugo Module Setup (Automatically Fetch theme from website)
+[module]
+  [[module.imports]]
+    path = "github.com/lxndrblz/anatole"
