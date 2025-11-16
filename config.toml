@@ -42,7 +42,7 @@ googleSiteVerify = "KlhFzunVRdnPEm0lVsZSmGynr68uoxx1si2rTwfDJQ8"
 # indexDateFormat = "Mon, Jan 2, 2006"
 # listDateFormat = "Jan 2"
 # singleDateFormat = "Mon, Jan 2, 2006"
-# contentratio = 0.7
+contentratio = 0.7
 readMore = true
 
 [params.simpleAnalytics]
@@ -136,3 +136,4 @@ url = "https://kazukimotohashi.github.io/cv/CV_KazukiMotohashi.pdf"
 [module]
   [[module.imports]]
     path = "github.com/lxndrblz/anatole"
+    disable = false
