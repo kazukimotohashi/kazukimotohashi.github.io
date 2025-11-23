@@ -35,7 +35,7 @@ customJs = []
 gtagId = "G-N9CW3PEYR6"
 mainSections = []
 images = ["images/site-feature-image.png"]
-doNotLoadAnimations = false
+# doNotLoadAnimations = false
 # Form Spree Contact Form
 contactFormAction = "https://formspree.io/f/mqkgoezy"
 # Google Site Verify
