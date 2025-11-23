@@ -3,6 +3,10 @@ title = "Research"
 description = "Research"
 date = "2021-04-26"
 author = "Kazuki Motohashi"
+tags = [
+"thumbnail",
+]
+thumbnail= "images/thumbnail1.jpg"
 +++
 
 ## Working Papers

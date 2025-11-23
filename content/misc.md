@@ -2,6 +2,10 @@
 description = "Misc."
 date = "2021-04-26"
 author = "Kazuki Motohashi"
+tags = [
+"thumbnail",
+]
+thumbnail= "images/thumbnail4.jpg"
 +++
 
 # Notes on Research
