@@ -4,6 +4,7 @@ DefaultContentLanguage = "en"
 title = "Website of Kazuki Motohashi"
 summarylength = 10
 enableEmoji = true
+# Emoji list: https://gohugo.io/quick-reference/emojis/
 enableRobotsTXT = true
 canonifyurls = true
 
@@ -32,7 +33,7 @@ customCss = ["css/custom.css"]
 # example ["js/custom.js"]
 customJs = []
 gtagId = "G-N9CW3PEYR6"
-mainSections = [""]
+mainSections = []
 images = ["images/site-feature-image.png"]
 doNotLoadAnimations = false
 # Form Spree Contact Form
@@ -45,14 +46,22 @@ googleSiteVerify = "KlhFzunVRdnPEm0lVsZSmGynr68uoxx1si2rTwfDJQ8"
 # contentratio = 0.7
 readMore = true
 
-[params.simpleAnalytics]
-# enable = true
-# customurl = "https://analytics.example.com"
+## Mermaid Diagram settings
+[mermaid]
+enable = true
 
 ## Math settings
 [params.math]
 enable = true  # options: true, false. Enable math support globally, default: false. You can always enable math on per page.
 use = "katex"  # options: "katex", "mathjax". default is "katex".
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.extensions]
+      [markup.goldmark.extensions.passthrough]
+        enable = true
+        [markup.goldmark.extensions.passthrough.delimiters]
+          block = [['\[', '\]'], ['$$', '$$']]
+          inline = [['\(', '\)']]
 
 ## Social links
 # use 'fab' when brand icons, use 'fas' when standard solid icons. Font Awesome 5.
@@ -124,6 +133,13 @@ url = "https://www.linkedin.com/in/kazuki-motohashi/"
   weight = 700
   identifier = "misc"
   url = "/misc/"
+
+ [[[menu.main]]
+  name = "Fieldwork in Bihar, India"
+  weight = 510
+  identifier = "india"
+  url = "/india/"
+  parent = "misc"
 
   [[menu.main]]
   name = "元橋一輝"
