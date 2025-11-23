@@ -1,12 +1,11 @@
 +++
+title = "元橋 一輝"
 description = "元橋 一輝"
 date = "2021-05-15"
 author = "Kazuki Motohashi"
 +++
 
-## 元橋 一輝
-
-### 略歴
+## 略歴
 2024年9月〜　一橋大学経済学研究科　講師（テニュアトラック）
 
 2023年7月〜2024年8月　一橋大学社会科学高等研究院　特任講師
@@ -19,16 +18,16 @@ author = "Kazuki Motohashi"
 
 2012年　東京大学法学部　卒業　
 
-### 研究分野
+## 研究分野
 環境経済学、開発経済学
 
-### 連絡先
+## 連絡先
 住所：〒186-8601 東京都国立市中2-1 一橋大学経済学研究科
 
 Email：[kazuki.motohashi@r.hit-u.ac.jp](mailto:kazuki.motohashi@r.hit-u.ac.jp)
 
-### 学術関連の活動
-#### 記事等
+## 学術関連の活動
+### 記事等
 * 週刊東洋経済2024年11月30日号で記事「｢平成の大合併｣が原因､河川の水質への悪影響」（[オンライン版はこちら](https://toyokeizai.net/articles/-/841784)）が公開されました。[2024/11/27]
 
 * "Environment and Health in Developing Countries"が、開発経済学会の[ニュースレター第７号(p.7-13)](http://www.jade.gr.jp/JL/JL_007.pdf)で公開されました。[2023/9/28]
@@ -43,11 +42,11 @@ Email：[kazuki.motohashi@r.hit-u.ac.jp](mailto:kazuki.motohashi@r.hit-u.ac.jp)
 
 * 週刊東洋経済2020年10月17日号で記事「インドの屋外排泄解消に「人のつながり」を活用」（[オンライン版はこちら](https://toyokeizai.net/articles/-/572278)）が公開されました。[2020/10/11]
 
-#### 受賞
+### 受賞
 * "Unintended Consequences of Sanitation: Negative Externalities on Water Quality and Health in India"のペーパーが大阪大学社会経済研究所主催の[第25回森口賞](https://www.iser.osaka-u.ac.jp/moriguchi/25syo.html)を受賞しました。[2022/12/5]
 
-### 学術関係以外の活動
-#### 講演等
+## 学術関係以外の活動
+### 講演等
 * ロータリーの友2024年03月号に、[「インドのトイレ普及の現状と課題」](https://kazukimotohashi.github.io/japanese/Rotary_IndiaToilet_Motohashi.pdf)のテーマで寄稿しました。[2024/3/13]
 
 * 慶應2040独立自尊プロジェクトの2040ラウンジで、「開発途上国における環境汚染と健康の問題」をテーマに発表しました。[2023/10/12]
@@ -64,7 +63,7 @@ Email：[kazuki.motohashi@r.hit-u.ac.jp](mailto:kazuki.motohashi@r.hit-u.ac.jp)
 
 * ボストン開発コミュニティで、「経済学の視点から見た水衛生問題：ベトナムの下水道とインドのトイレ事情を例に」をテーマに、一般向けに水衛生問題について発表しました。[2020/6/20]
 
-#### その他
+### その他
 * 国際ロータリー第2750地区ロータリー財団学友会の幹事をしています。[2024/5/11]
 
 * 国内外の研究者ネットワークの[アークレブ・アカデミア・ストラテジスト・ネットワーク（AASN）](https://www.arclev.co.jp/aasn/)に参画しました。[2022/9/26]

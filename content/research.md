@@ -1,10 +1,11 @@
 +++
+title = "Research"
 description = "Research"
 date = "2021-04-26"
 author = "Kazuki Motohashi"
 +++
 
-#### Working Papers
+## Working Papers
 **[Unintended Consequences of Sanitation Investment: Negative Externalities on Water Quality and Health in India](https://kazukimotohashi.github.io/research/Sanitation_Externalities_Paper_Motohashi.pdf)** Revise and Resubmit at the _Journal of Development Economics_
 
 {{< detail-tag "Media Coverage" >}}
@@ -44,11 +45,11 @@ author = "Kazuki Motohashi"
 {{< /detail-tag >}}
 &nbsp;
 
-#### Publications
+## Publications
 **[The Poverty Impacts of Labor Heat Stress in West Africa under a Warming Climate](https://doi.org/10.1029/2022EF002777) (with Wajiha Saeed, Iman Haqiqi, Qinqin Kong, Matthew Huber, Jonathan Buzan, Shun Chonabayashi, Thomas Hertel)**, _Earth's Future_, 10, e2022EF002777, 2022
 &nbsp;  
 
-#### Selected Works in Progress
+## Selected Works in Progress
 - VIIRS and the Future of Night Lights Data in Economics (with Paul Brimble, Axel Ezimendi-Larrinaga, and Adam Storeygard)
 
 - The Holy Dip: Religion, River Pollution, and Health Consequences in India (with Moogdho Mahzab and Sheetal Sekhri)

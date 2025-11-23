@@ -8,7 +8,7 @@
     <language>en</language>
     <lastBuildDate>Fri, 27 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://kazukimotohashi.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
+      <title>Fieldwork in Dhaka, Bangladesh</title>
       <link>https://kazukimotohashi.github.io/bangladesh/</link>
       <pubDate>Fri, 27 Sep 2024 00:00:00 +0000</pubDate>
       
@@ -19,7 +19,7 @@
     </item>
     
     <item>
-      <title></title>
+      <title>元橋 一輝</title>
       <link>https://kazukimotohashi.github.io/japanese/</link>
       <pubDate>Sat, 15 May 2021 00:00:00 +0000</pubDate>
       
@@ -31,56 +31,12 @@
     
     <item>
       <title></title>
-      <link>https://kazukimotohashi.github.io/cv/</link>
-      <pubDate>Mon, 26 Apr 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://kazukimotohashi.github.io/cv/</guid>
-      
-        <description>CV</description>
-      
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://kazukimotohashi.github.io/fujimi/</link>
-      <pubDate>Mon, 26 Apr 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://kazukimotohashi.github.io/fujimi/</guid>
-      
-        <description>Fujimi</description>
-      
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://kazukimotohashi.github.io/india/</link>
-      <pubDate>Mon, 26 Apr 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://kazukimotohashi.github.io/india/</guid>
-      
-        <description>India</description>
-      
-    </item>
-    
-    <item>
-      <title></title>
       <link>https://kazukimotohashi.github.io/misc/</link>
       <pubDate>Mon, 26 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>https://kazukimotohashi.github.io/misc/</guid>
       
-        <description>Misc</description>
-      
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://kazukimotohashi.github.io/research/</link>
-      <pubDate>Mon, 26 Apr 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://kazukimotohashi.github.io/research/</guid>
-      
-        <description>Research</description>
+        <description>Misc.</description>
       
     </item>
     
@@ -96,7 +52,51 @@
     </item>
     
     <item>
-      <title></title>
+      <title>CV</title>
+      <link>https://kazukimotohashi.github.io/cv/</link>
+      <pubDate>Mon, 26 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://kazukimotohashi.github.io/cv/</guid>
+      
+        <description>CV</description>
+      
+    </item>
+    
+    <item>
+      <title>Fieldwork in Bihar, India</title>
+      <link>https://kazukimotohashi.github.io/india/</link>
+      <pubDate>Mon, 26 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://kazukimotohashi.github.io/india/</guid>
+      
+        <description>India</description>
+      
+    </item>
+    
+    <item>
+      <title>Mount Fuji（富士山）</title>
+      <link>https://kazukimotohashi.github.io/fujimi/</link>
+      <pubDate>Mon, 26 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://kazukimotohashi.github.io/fujimi/</guid>
+      
+        <description>Fujimi</description>
+      
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>https://kazukimotohashi.github.io/research/</link>
+      <pubDate>Mon, 26 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://kazukimotohashi.github.io/research/</guid>
+      
+        <description>Research</description>
+      
+    </item>
+    
+    <item>
+      <title>World Heritage in Japan</title>
       <link>https://kazukimotohashi.github.io/worldheritage/</link>
       <pubDate>Mon, 26 Apr 2021 00:00:00 +0000</pubDate>
       

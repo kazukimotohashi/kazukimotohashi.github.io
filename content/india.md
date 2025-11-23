@@ -1,10 +1,11 @@
 +++
+title = "Fieldwork in Bihar, India"
 description = "India"
 date = "2021-04-26"
 author = "Kazuki Motohashi"
 +++
 
-### Fieldwork in Bihar, India (November-December 2021)
+## November-December 2021
 
 {{< figure src="/images/india_photo1.jpg" alt="image" width="800" class="center" >}}
 
@@ -26,7 +27,7 @@ author = "Kazuki Motohashi"
 
 {{< figure src="/images/india_photo10.jpg" alt="image" width="800" class="center" >}}
 
-### Fieldwork in Bihar, India (August 2023)
+## August 2023
 
 {{< figure src="/images/india_photo11.jpg" alt="image" width="800" class="center" >}}
 

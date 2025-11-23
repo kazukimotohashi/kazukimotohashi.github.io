@@ -1,10 +1,11 @@
 +++
+title = "Fieldwork in Dhaka, Bangladesh"
 description = "Bangladesh"
 date = "2024-09-27"
 author = "Kazuki Motohashi"
 +++
 
-### Fieldwork in Dhaka, Bangladesh (May 2024)
+## May 2024
 
 {{< figure src="/images/bangladesh_photo1.jpg" alt="image" width="800" class="center" >}}
 

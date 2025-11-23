@@ -1,10 +1,9 @@
 +++
+title = "World Heritage in Japan"
 description = "World Heritage"
 date = "2021-04-26"
 author = "Kazuki Motohashi"
 +++
-
-### World Heritage in Japan
 
 {{< figure src="/images/heritage_photo1.jpg" alt="image" title="Shirakami-Sanchi (Aomori and Akita)" width="600" class="center" >}}
 

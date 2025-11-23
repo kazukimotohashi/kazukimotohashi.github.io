@@ -2,7 +2,7 @@
 author = "Kazuki Motohashi"
 +++
 
-## Welcome!
+# Welcome!
 {{< figure src="/images/kazuki_website_photo.jpg" width="250" alt="image" class="left" >}}
 
 I am an Assistant Professor in the Graduate School of Economics at Hitotsubashi University. I received my PhD in Economics and Public Policy from Tufts University in 2023.

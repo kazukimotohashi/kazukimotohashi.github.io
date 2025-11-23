@@ -1,10 +1,10 @@
 +++
-description = "Misc"
+description = "Misc."
 date = "2021-04-26"
 author = "Kazuki Motohashi"
 +++
 
-#### Notes on Research
+# Notes on Research
 
 - Article on JADE (Japanese Association for Development Economics) Letter No.7 "Environment and Health in Developing Countries" (p.7-13) [[link]](http://www.jade.gr.jp/JL/JL_007.pdf)
 
@@ -13,7 +13,7 @@ author = "Kazuki Motohashi"
 - Replication in R of the codes in the Banerjee et al. (2013) "Diffusion of Microfinance" (with Sakina Shibuya, Mizuhiro Suzuki) [[link]](https://github.com/sakina0320/MFdiffusion_replication/blob/master/Code/R/Replication/noEndorsement.pdf)
 
 
-#### Photo Gallery
+# Photo Gallery
 
 - [Fieldwork in Bihar, India](https://kazukimotohashi.github.io/india)
 
