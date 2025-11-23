@@ -132,7 +132,6 @@ url = "https://www.linkedin.com/in/kazuki-motohashi/"
   name = "Misc."
   weight = 700
   identifier = "misc"
-  url = "/misc/"
 
   [[menu.main]]
   name = "Fieldwork in Bihar, India"
