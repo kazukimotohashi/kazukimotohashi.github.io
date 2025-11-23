@@ -47,7 +47,7 @@ googleSiteVerify = "KlhFzunVRdnPEm0lVsZSmGynr68uoxx1si2rTwfDJQ8"
 readMore = true
 
 ## Mermaid Diagram settings
-[mermaid]
+[params.mermaid]
 enable = true
 
 ## Math settings
