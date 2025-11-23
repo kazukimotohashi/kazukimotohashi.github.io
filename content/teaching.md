@@ -2,9 +2,6 @@
 description = "Teaching"
 date = "2021-04-26"
 author = "Kazuki Motohashi"
-tags = [
-"thumbnail",
-]
 thumbnail= "images/thumbnail2.jpg"
 +++
 

@@ -3,9 +3,6 @@ title = "元橋 一輝"
 description = "元橋 一輝"
 date = "2021-05-15"
 author = "Kazuki Motohashi"
-tags = [
-"thumbnail",
-]
 thumbnail= "images/thumbnail5.jpg"
 +++
 

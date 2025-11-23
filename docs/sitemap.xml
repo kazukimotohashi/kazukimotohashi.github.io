@@ -8,12 +8,6 @@
     <loc>https://kazukimotohashi.github.io/bangladesh/</loc>
     <lastmod>2024-09-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kazukimotohashi.github.io/tags/</loc>
-    <lastmod>2021-05-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://kazukimotohashi.github.io/tags/thumbnail/</loc>
-    <lastmod>2021-05-15T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://kazukimotohashi.github.io/japanese/</loc>
     <lastmod>2021-05-15T00:00:00+00:00</lastmod>
   </url><url>
@@ -39,5 +33,7 @@
     <lastmod>2021-04-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://kazukimotohashi.github.io/categories/</loc>
+  </url><url>
+    <loc>https://kazukimotohashi.github.io/tags/</loc>
   </url>
 </urlset>
