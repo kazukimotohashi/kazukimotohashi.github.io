@@ -34,6 +34,10 @@ thumbnail= "images/thumbnail1.jpg"
 
 **[Does Trade with Multinationals Induce Greener Production? Evidence from the Bangladesh Fashion Industry](https://www.theigc.org/sites/default/files/2025-02/Iqbal%20et%20al%20Working%20paper%20September%202024.pdf) (with Kazi Iqbal, Moogdho Mahzab, and Haruka Takayama)**
 
+{{< detail-tag "Media Coverage" >}}
+  [[IGC Blog Post](https://www.theigc.org/blogs/bangladesh-garment-industry-river-pollution)]
+{{< /detail-tag >}}
+
 {{< detail-tag Abstract >}}
   There is growing attention to the need for firms to ensure that their suppliers meet production standards (i.e., responsible sourcing). This practice is particularly prevalent in the apparel industry, as buyers---especially multinationals with well-known brands---often require their suppliers to comply with stringent environmental standards. We study how trading with global fashion brands affects the environmental performance of their suppliers in Bangladesh. Using a novel dataset that combines custom data with river water quality data, we find that an increase in the number of exporters to brand multinationals improves the river water quality surrounding these exporters. Our finding highlights the crucial role multinational buyers play in mitigating industrial pollution, particularly in developing countries with weaker regulatory enforcement.
 {{< /detail-tag >}}
