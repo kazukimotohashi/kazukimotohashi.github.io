@@ -13,3 +13,4 @@ author = "Kazuki Motohashi"
 
 {{< figure src="/images/fuji_photo2.jpg" alt="image" title="From Yagawa Station (Kunitachi, Tokyo)" width="600" class="center" >}}
 
+{{< figure src="/images/fuji_photo5.jpg" alt="image" title="From Pedestrian Bridge in Yaho (Kunitachi, Tokyo)" width="800" class="center" >}}
