@@ -59,7 +59,7 @@ thumbnail= "images/thumbnail1.jpg"
 
 - The Holy Dip: Religion, River Pollution, and Health Consequences in India (with Moogdho Mahzab and Sheetal Sekhri)
 
-- Caste Segregation and Spatial Misallocation in Village India (with Michael Neubauer and Shunsuke Tsuda)
+- Rural-Urban Migration, Structural Transformation, and Caste Discrimination in Village India (with Michael Neubauer and Shunsuke Tsuda)
 
 - Urban-Rural Sanitation Market and Child Mortality: Evidence from Interwar Tokyo (with Tatsuki Inoue)
 
