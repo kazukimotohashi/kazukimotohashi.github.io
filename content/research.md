@@ -61,8 +61,6 @@ thumbnail= "images/thumbnail1.jpg"
 
 - Caste Segregation and Spatial Misallocation in Village India (with Michael Neubauer and Shunsuke Tsuda)
 
-<!--
 - Urban-Rural Sanitation Market and Child Mortality: Evidence from Interwar Tokyo (with Tatsuki Inoue)
 
 - Peer Effects and Misperceptions in Sanitation Use in Rural India (with Takeshi Fukasawa)
---!>
