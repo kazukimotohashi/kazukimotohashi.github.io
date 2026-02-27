@@ -28,6 +28,10 @@ thumbnail= "images/thumbnail5.jpg"
 Email：[kazuki.motohashi@r.hit-u.ac.jp](mailto:kazuki.motohashi@r.hit-u.ac.jp)
 
 ## 学術関連の活動
+### 講演等
+* 日本経済学会アウトリーチ企画のインタビュー動画が公開されました。私の研究テーマ（特に環境経済学）や、今の研究に至るまでの経緯などをお話ししています。[2026/2/27]
+{{< youtube XzMFtYyd2Ao >}}
+
 ### 記事等
 * 週刊東洋経済2024年11月30日号で記事「｢平成の大合併｣が原因､河川の水質への悪影響」（[オンライン版はこちら](https://toyokeizai.net/articles/-/841784)）が公開されました。[2024/11/27]
 
@@ -48,8 +52,6 @@ Email：[kazuki.motohashi@r.hit-u.ac.jp](mailto:kazuki.motohashi@r.hit-u.ac.jp)
 
 ## 学術関係以外の活動
 ### 講演等
-* ロータリーの友2024年03月号に、[「インドのトイレ普及の現状と課題」](https://kazukimotohashi.github.io/japanese/Rotary_IndiaToilet_Motohashi.pdf)のテーマで寄稿しました。[2024/3/13]
-
 * 慶應2040独立自尊プロジェクトの2040ラウンジで、「開発途上国における環境汚染と健康の問題」をテーマに発表しました。[2023/10/12]
 
 * [研究者大喜利 #5 ～SDG6 いのちの水編～](https://energy-environment-researchers-oogiri-5.peatix.com/)に登壇しました。[2022/5/25]
@@ -63,6 +65,9 @@ Email：[kazuki.motohashi@r.hit-u.ac.jp](mailto:kazuki.motohashi@r.hit-u.ac.jp)
 * 小さな国際開発研究会で、"Unintended Consequences of Latrine Construction: Externalities on Water Quality and Health in India"の研究について、一般向けに発表しました。[2020/6/13]
 
 * ボストン開発コミュニティで、「経済学の視点から見た水衛生問題：ベトナムの下水道とインドのトイレ事情を例に」をテーマに、一般向けに水衛生問題について発表しました。[2020/6/20]
+
+### 記事等
+* ロータリーの友2024年03月号に、[「インドのトイレ普及の現状と課題」](https://kazukimotohashi.github.io/japanese/Rotary_IndiaToilet_Motohashi.pdf)のテーマで寄稿しました。[2024/3/13]
 
 ### その他
 * 国際ロータリー第2750地区ロータリー財団学友会の幹事をしています。[2024/5/11]
