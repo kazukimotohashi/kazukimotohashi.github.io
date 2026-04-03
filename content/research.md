@@ -7,7 +7,7 @@ thumbnail= "images/thumbnail1.jpg"
 +++
 
 ## Working Papers
-**[Unintended Consequences of Sanitation Investment: Negative Externalities on Water Quality and Health in India](https://kazukimotohashi.github.io/research/Sanitation_Externalities_Paper_Motohashi.pdf)** Revise and Resubmit at the _Journal of Development Economics_
+**[Unintended Consequences of Sanitation Investment: Negative Externalities on Water Quality and Health in India](https://kazukimotohashi.github.io/research/Sanitation_Externalities_Paper_Motohashi.pdf)** Accepted at the _Journal of Development Economics_
 
 {{< detail-tag "Media Coverage" >}}
   [[World Bank Blog Post](https://blogs.worldbank.org/impactevaluations/unintended-water-pollution-externalities-latrine-construction-india-guest-post)], [[VoxDev Article](https://voxdev.org/topic/infrastructure/sanitation-investments-water-pollution-and-health-lessons-india)]
