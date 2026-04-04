@@ -9,7 +9,7 @@ thumbnail= "images/thumbnail2.jpg"
 
 ## Graduate Level
 
-- International Development Economics II, Hitotsubashi University, Winter 2025 [[Syllabus]](https://kazukimotohashi.github.io/teaching/Syllabus_International_Development_Economics_Motohashi.pdf)
+- International Development Economics II, Hitotsubashi University, Fall-Winter 2025/2026 [[Syllabus]](https://kazukimotohashi.github.io/teaching/Syllabus_International_Development_Economics_Motohashi.pdf)
 
 ## Undergraduate Level
 
