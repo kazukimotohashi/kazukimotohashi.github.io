@@ -55,8 +55,6 @@ thumbnail= "images/thumbnail1.jpg"
 &nbsp;  
 
 ## Selected Works in Progress
-- VIIRS and the Future of Night Lights Data in Economics (with Paul Brimble, Axel Ezimendi-Larrinaga, and Adam Storeygard)
-
 - The Holy Dip: Religion, River Pollution, and Health Consequences in India (with Moogdho Mahzab and Sheetal Sekhri)
 
 - Structural Transformation and Caste Discrimination in Village India (with Michael Neubauer and Shunsuke Tsuda)
@@ -64,3 +62,5 @@ thumbnail= "images/thumbnail1.jpg"
 - Urban-Rural Sanitation Market and Child Mortality: Evidence from Interwar Tokyo (with Tatsuki Inoue)
 
 - Peer Effects and Misperceptions in Sanitation Use in Rural India (with Takeshi Fukasawa)
+
+- VIIRS and the Future of Night Lights Data in Economics (with Paul Brimble, Axel Ezimendi-Larrinaga, and Adam Storeygard)
