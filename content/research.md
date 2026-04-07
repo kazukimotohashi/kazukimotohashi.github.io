@@ -48,6 +48,7 @@ thumbnail= "images/thumbnail1.jpg"
 {{< detail-tag Abstract >}}
   Improving water access can reduce the burden of time spent on water collection and enhance child health. However, most evidence comes from interventions with limited scope, and it remains unclear how benefits are distributed between advantaged and disadvantaged groups when programs are scaled to fill regional or national coverage gaps. We examine the gendered and distributional impacts of India's universal tap water policy. Exploiting temperature shocks that affect water demand, we find that the policy reduces water collection time, particularly for women and marginalized caste groups. At the same time, however, by examining district-level variations in tap water expansion, we identify an increase in child mortality, particularly among these marginalized groups. Our results suggest a possible quantity-quality tradeoff in scaling infrastructure and a need for more careful mitigation of potentially adverse behavioral responses.
 {{< /detail-tag >}}
+&nbsp;
 
 ## Publications
 **[The Poverty Impacts of Labor Heat Stress in West Africa under a Warming Climate](https://doi.org/10.1029/2022EF002777) (with Wajiha Saeed, Iman Haqiqi, Qinqin Kong, Matthew Huber, Jonathan Buzan, Shun Chonabayashi, Thomas Hertel)**, _Earth's Future_, 10, e2022EF002777, 2022
