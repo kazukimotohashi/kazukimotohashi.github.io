@@ -12,6 +12,7 @@
 
 body, html {
   font-family: "Roboto", "Noto Sans JP", "Hiragino Kaku Gothic ProN", sans-serif !important;
+  font-size: 1.8rem;
 }
 
 p {
@@ -35,6 +36,7 @@ ul > li, ol > li {
    ========================================================================== */
 
 h1 {
+  font-size: 4rem;
   margin-top: 3rem;
   margin-bottom: 1.4rem;
 }
@@ -45,6 +47,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h2 {
+  font-size: 2.8rem;
   border-left: solid 4px #999;
   padding: 0.15em 0.6em;
   margin-top: 3.2rem;
@@ -53,6 +56,7 @@ h2 {
 }
 
 h3 {
+  font-size: 2.2rem;
   border-left: solid 3px #bbb;
   padding: 0.15em 0.6em;
   margin-top: 2.6rem;
@@ -71,27 +75,39 @@ h4 {
    Links
    ========================================================================== */
 
-.post__content a {
-  color: #2563eb;
+.post__content a,
+.theme--light .post__content a,
+.theme--dark .post__content a {
+  color: #0066cc !important;
   text-decoration: none;
   border-bottom: 1px solid transparent;
   transition: border-color 0.2s ease, color 0.2s ease;
 }
 
-.post__content a:hover {
-  color: #1d4ed8;
-  border-bottom-color: #1d4ed8;
+.post__content a:hover,
+.theme--light .post__content a:hover {
+  color: #06357a !important;
+  border-bottom-color: #06357a;
 }
 
-/* Paper titles: bold links stay dark, hover to accent */
+.theme--dark .post__content a {
+  color: #7aacee !important;
+}
+
+.theme--dark .post__content a:hover {
+  color: #a0c6f5 !important;
+  border-bottom-color: #a0c6f5;
+}
+
+/* Paper titles */
 .post__content > p > strong > a {
-  color: #2563eb;
+  color: #0066cc;
   font-size: 1.02em;
 }
 
 .post__content > p > strong > a:hover {
-  color: #2563eb;
-  border-bottom-color: #2563eb;
+  color: #06357a;
+  border-bottom-color: #06357a;
 }
 
 /* Tighten spacing: paragraphs followed by detail toggles */
