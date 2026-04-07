@@ -1,4 +1,11 @@
-<details>
-    <summary>{{ (.Get 0) | markdownify }}</summary>
-    {{ .Inner | markdownify }}
-</details>
+<div class="detail-toggle">
+  <button class="detail-toggle__summary" aria-expanded="false">
+    <span class="detail-toggle__arrow">&#9654;</span>
+    <span class="detail-toggle__label">{{ (.Get 0) | markdownify }}</span>
+  </button>
+  <div class="detail-toggle__content" aria-hidden="true">
+    <div class="detail-toggle__inner">
+      {{ .Inner | markdownify }}
+    </div>
+  </div>
+</div>

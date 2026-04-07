@@ -1,37 +1,325 @@
-@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@400;500;600;700&family=Roboto:wght@400;500;700&display=swap");
+/* Custom CSS for Kazuki Motohashi's Academic Website
+ * Author: Kazuki Motohashi
+ * Date: 2026-04-07
+ * Description: Modern, clean styling with monochrome palette
+ */
+
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@400;500;600;700&family=Roboto:wght@400;500;700&family=Noto+Sans+JP:wght@400;500;700&display=swap");
+
+/* ==========================================================================
+   Base Typography
+   ========================================================================== */
 
 body, html {
-  font-family: "Roboto", "Hiragino Kaku Gothic ProN", "BIZ UDPGothic", sans-serif !important;
+  font-family: "Roboto", "Noto Sans JP", "Hiragino Kaku Gothic ProN", sans-serif !important;
 }
 
 p {
-  font-family: "Roboto", "Hiragino Kaku Gothic ProN", "BIZ UDPGothic", sans-serif !important;
-  margin: 0.6em 0px;
-  line-height: 1.5em;
+  font-family: "Roboto", "Noto Sans JP", "Hiragino Kaku Gothic ProN", sans-serif !important;
+  margin: 0.75em 0;
+  line-height: 1.65;
 }
 
-ul, ol, ul > li, ol > li {
-  font-family: "Roboto", "Hiragino Kaku Gothic ProN", "BIZ UDPGothic", sans-serif !important;
-  padding-top:-0.3em;
-  padding-bottom:-0.3em;
-  line-height: 1.5em;
+ul, ol {
+  font-family: "Roboto", "Noto Sans JP", "Hiragino Kaku Gothic ProN", sans-serif !important;
+  line-height: 1.6;
+  padding-left: 2.5em;
 }
 
-h1, h2, h3, h4, h5 ,h6 {
-  font-family: "Raleway", "Hiragino Kaku Gothic ProN", "BIZ UDGothic", sans-serif;
+ul > li, ol > li {
+  margin-bottom: 0;
+}
+
+/* ==========================================================================
+   Headings
+   ========================================================================== */
+
+h1 {
+  margin-top: 3rem;
+  margin-bottom: 1.4rem;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Raleway", "Noto Sans JP", "Hiragino Kaku Gothic ProN", sans-serif;
+  letter-spacing: 0.01em;
 }
 
 h2 {
-  border-left: solid 5px #D0D0D0;
-	padding: 0.1em 0.5em;
+  border-left: solid 4px #999;
+  padding: 0.15em 0.6em;
+  margin-top: 3.2rem;
+  margin-bottom: 1.2rem;
+  font-weight: 600;
 }
 
 h3 {
-	border-left: solid 5px #E0E0E0;
-	padding: 0.1em 0.5em;
+  border-left: solid 3px #bbb;
+  padding: 0.15em 0.6em;
+  margin-top: 2.6rem;
+  margin-bottom: 1rem;
+  font-weight: 600;
 }
 
 h4 {
-	border-left: solid 5px #F0F0F0;
-	padding: 0.1em 0.5em;
+  border-left: solid 2px #d0d0d0;
+  padding: 0.15em 0.6em;
+  margin-top: 2rem;
+  margin-bottom: 0.8rem;
+}
+
+/* ==========================================================================
+   Links
+   ========================================================================== */
+
+.post__content a {
+  color: #2563eb;
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: border-color 0.2s ease, color 0.2s ease;
+}
+
+.post__content a:hover {
+  color: #1d4ed8;
+  border-bottom-color: #1d4ed8;
+}
+
+/* Paper titles: bold links stay dark, hover to accent */
+.post__content > p > strong > a {
+  color: #2563eb;
+  font-size: 1.02em;
+}
+
+.post__content > p > strong > a:hover {
+  color: #2563eb;
+  border-bottom-color: #2563eb;
+}
+
+/* Tighten spacing: paragraphs followed by detail toggles */
+.detail-toggle + .detail-toggle {
+  margin-top: 0;
+}
+
+/* Paragraphs containing detail-toggles (Hugo wraps them in <p>) */
+p:has(> .detail-toggle) {
+  margin-bottom: 0.2em;
+  margin-top: 0.2em;
+}
+
+/* ==========================================================================
+   Detail Toggle (Abstract / Media Coverage)
+   ========================================================================== */
+
+.detail-toggle {
+  margin: 0.1em 0;
+}
+
+.detail-toggle__summary {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4em;
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 0.3em 0.5em;
+  font-family: "Roboto", "Hiragino Kaku Gothic ProN", "BIZ UDPGothic", sans-serif;
+  font-size: 0.92em;
+  color: inherit;
+  border-radius: 4px;
+  transition: color 0.2s ease, background-color 0.2s ease;
+}
+
+.detail-toggle__summary:hover {
+  color: #111;
+  background-color: #f5f5f5;
+}
+
+.detail-toggle__arrow {
+  display: inline-block;
+  font-size: 0.7em;
+  transition: transform 0.3s ease;
+  line-height: 1;
+}
+
+.is-open > .detail-toggle__summary .detail-toggle__arrow {
+  transform: rotate(90deg);
+}
+
+.detail-toggle__content {
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.35s ease;
+}
+
+.detail-toggle__inner {
+  padding: 0.6em 0 0.6em 1.2em;
+  border-left: 2px solid #e0e0e0;
+  margin-left: 0.3em;
+  color: inherit;
+  font-size: 0.95em;
+  line-height: 1.6;
+}
+
+/* Dark mode overrides for detail toggles */
+.theme--dark .detail-toggle__summary {
+  color: inherit;
+}
+
+.theme--dark .detail-toggle__summary:hover {
+  color: #fff;
+  background-color: #333;
+}
+
+.theme--dark .detail-toggle__inner {
+  color: inherit;
+  border-left-color: #555;
+}
+
+/* Dark mode: links */
+.theme--dark .post__content a {
+  color: #7aacee;
+}
+
+.theme--dark .post__content a:hover {
+  color: #a0c6f5;
+  border-bottom-color: #a0c6f5;
+}
+
+/* Dark mode: paper titles */
+.theme--dark .post__content > p > strong > a {
+  color: #7aacee;
+}
+
+.theme--dark .post__content > p > strong > a:hover {
+  color: #7aacee;
+  border-bottom-color: #7aacee;
+}
+
+/* Dark mode: headings left border */
+.theme--dark h2 {
+  border-left-color: #666;
+}
+
+.theme--dark h3 {
+  border-left-color: #555;
+}
+
+.theme--dark h4 {
+  border-left-color: #444;
+}
+
+/* Dark mode: back-to-top button */
+.theme--dark .back-to-top {
+  background: rgba(50, 50, 50, 0.9);
+  border-color: #555;
+  color: #aaa;
+}
+
+.theme--dark .back-to-top:hover {
+  background-color: #444;
+  color: #ddd;
+  border-color: #777;
+}
+
+/* ==========================================================================
+   Page Fade-in Animation
+   ========================================================================== */
+
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(12px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.page .post__content {
+  animation: fadeInUp 0.5s ease-out;
+}
+
+/* ==========================================================================
+   Profile Photo
+   ========================================================================== */
+
+.post__content figure.left img {
+  border-radius: 6px;
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.1);
+  transition: box-shadow 0.3s ease;
+}
+
+.post__content figure.left img:hover {
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);
+}
+
+/* ==========================================================================
+   Navigation Hover Effects
+   ========================================================================== */
+
+/* Override theme's active link border to use ::after instead */
+.nav__link--active {
+  border-bottom: none !important;
+}
+
+.nav__list-item a {
+  position: relative;
+  text-decoration: none;
+  padding-bottom: 24px;
+}
+
+.nav__list-item a::after {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 2px;
+  background-color: #666;
+  transform: scaleX(0);
+  transform-origin: left;
+  transition: transform 0.3s ease;
+}
+
+.nav__list-item a:hover::after {
+  transform: scaleX(1);
+}
+
+.nav__list-item a.nav__link--active::after {
+  transform: scaleX(1);
+  background-color: #999;
+}
+
+/* ==========================================================================
+   Back to Top Button
+   ========================================================================== */
+
+.back-to-top {
+  position: fixed;
+  bottom: 2rem;
+  right: 2rem;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  border: 1px solid #d0d0d0;
+  background: rgba(255, 255, 255, 0.9);
+  color: #888;
+  font-size: 14px;
+  cursor: pointer;
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity 0.3s ease, visibility 0.3s ease, background-color 0.2s ease, color 0.2s ease;
+  z-index: 100;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+}
+
+.back-to-top.is-visible {
+  opacity: 1;
+  visibility: visible;
+}
+
+.back-to-top:hover {
+  background-color: #f0f0f0;
+  color: #555;
+  border-color: #aaa;
 }

@@ -31,7 +31,7 @@ keywords = ""
 favicon = "favicons/"
 customCss = ["css/custom.css"]
 # example ["js/custom.js"]
-customJs = []
+customJs = ["js/custom.js"]
 gtagId = "G-N9CW3PEYR6"
 mainSections = []
 images = ["images/site-feature-image.png"]
