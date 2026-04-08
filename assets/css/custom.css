@@ -256,6 +256,43 @@ p:has(> .detail-toggle) {
 }
 
 /* ==========================================================================
+   Figure / Photo Gallery
+   ========================================================================== */
+
+.post__content figure.center {
+  margin-bottom: 2.5em;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 720px;
+  background: #fff;
+  border: none;
+  border-radius: 12px;
+  padding: 0;
+  overflow: hidden;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+  transition: box-shadow 0.3s ease, transform 0.3s ease;
+}
+
+.post__content figure.center:hover {
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.14);
+  transform: translateY(-2px);
+}
+
+.post__content figure.center img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.post__content figure.center figcaption {
+  padding: 0.6em 1em 0.7em;
+  background: linear-gradient(to right, #f7f7f7, #fff);
+  border-top: 1px solid #eee;
+  color: #555;
+  letter-spacing: 0.02em;
+}
+
+/* ==========================================================================
    Profile Photo
    ========================================================================== */
 
