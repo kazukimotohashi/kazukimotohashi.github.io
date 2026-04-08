@@ -30,9 +30,17 @@ After making content changes:
 - `assets/js/custom.js`: Custom JavaScript (detail-tag toggle behavior, lazy loading, scroll effects)
 - `go.mod`: Hugo module config — pins Anatole theme version
 
+### Static Assets
+- `static/images/`: Site images (profile photos, gallery photos, thumbnails, Open Graph image)
+- `static/favicons/`: Favicon files
+
 ### Content Pages
 - `content/research.md`: Research papers with expandable abstracts/media coverage via `detail-tag` shortcode
 - `content/_index.md`: Homepage with bio
+- `content/teaching.md`: Teaching and student information
+- `content/cv.md`: CV page with link to PDF
+- `content/misc.md`: Notes on research and other items
+- `content/japanese.md`: Japanese-language version of bio/profile (元橋一輝)
 - Photo gallery pages (`india.md`, `bangladesh.md`, `fujimi.md`, `worldheritage.md`): Use `row`/`column` shortcodes for grid layouts
 
 ### Custom Shortcodes (`layouts/shortcodes/`)
@@ -61,7 +69,7 @@ Papers in `content/research.md` follow this pattern. Sections are: Working Paper
 - Media Coverage section is optional; Abstract section is standard for all papers
 
 ### Front Matter
-All content pages use TOML front matter (`+++`) with: `title`, `description`, `date`, `author`, and optionally `thumbnail`.
+All content pages use TOML front matter (`+++`) with: `description`, `date`, `author`, and optionally `title` and `thumbnail`.
 
 ## Important Notes
 
@@ -69,3 +77,4 @@ All content pages use TOML front matter (`+++`) with: `title`, `description`, `d
 - Theme is fetched via Hugo modules (`hugo mod`). Custom overrides go in `assets/` and `layouts/`, not in the theme source
 - Math: KaTeX with `\( \)` inline, `\[ \]` or `$$ $$` block
 - The `detail-tag` shortcode depends on JS in `custom.js` — if modifying toggle behavior, update both files together
+- The CV PDF (`CV_KazukiMotohashi.pdf`) lives only in the build output `docs/cv/`, not in `static/` or `content/`. Hugo preserves it across normal builds, but avoid `--cleanDestinationDir` or deleting `docs/` entirely
