@@ -6,8 +6,8 @@ author = "Kazuki Motohashi"
 thumbnail= "images/thumbnail1.jpg"
 +++
 
-## Working Papers
-**[Unintended Consequences of Sanitation Investment: Negative Externalities on Water Quality and Health in India](https://kazukimotohashi.github.io/research/Sanitation_Externalities_Paper_Motohashi.pdf)** Accepted at the _Journal of Development Economics_
+## Publications
+**[Unintended Consequences of Sanitation Investment: Negative Externalities on Water Quality and Health in India](https://doi.org/10.1016/j.jdeveco.2026.103793)** Forthcoming at the _Journal of Development Economics_
 
 {{< detail-tag "Media Coverage" >}}
   [World Bank Blog Post](https://blogs.worldbank.org/impactevaluations/unintended-water-pollution-externalities-latrine-construction-india-guest-post), [VoxDev Article](https://voxdev.org/topic/infrastructure/sanitation-investments-water-pollution-and-health-lessons-india)
@@ -18,6 +18,10 @@ thumbnail= "images/thumbnail1.jpg"
 {{< /detail-tag >}}
 &nbsp;
 
+**[The Poverty Impacts of Labor Heat Stress in West Africa under a Warming Climate](https://doi.org/10.1029/2022EF002777) (with Wajiha Saeed, Iman Haqiqi, Qinqin Kong, Matthew Huber, Jonathan Buzan, Shun Chonabayashi, Thomas Hertel)**, _Earth's Future_, 10, e2022EF002777, 2022
+&nbsp;
+
+## Working Papers
 **[The Impact of Municipal Mergers on Pollution Control: Evidence from River Pollution in Japan](https://kazukimotohashi.github.io/research/MT_Merger_WQ.pdf) (with Michiyoshi Toya)**
 
 {{< detail-tag Abstract >}}
@@ -49,10 +53,6 @@ thumbnail= "images/thumbnail1.jpg"
   Improving water access can reduce the burden of time spent on water collection and enhance child health. However, most evidence comes from interventions with limited scope, and it remains unclear how benefits are distributed between advantaged and disadvantaged groups when programs are scaled to fill regional or national coverage gaps. We examine the gendered and distributional impacts of India's universal tap water policy. Exploiting temperature shocks that affect water demand, we find that the policy reduces water collection time, particularly for women and marginalized caste groups. At the same time, however, by examining district-level variations in tap water expansion, we identify an increase in child mortality, particularly among these marginalized groups. Our results suggest a possible quantity-quality tradeoff in scaling infrastructure and a need for more careful mitigation of potentially adverse behavioral responses.
 {{< /detail-tag >}}
 &nbsp;
-
-## Publications
-**[The Poverty Impacts of Labor Heat Stress in West Africa under a Warming Climate](https://doi.org/10.1029/2022EF002777) (with Wajiha Saeed, Iman Haqiqi, Qinqin Kong, Matthew Huber, Jonathan Buzan, Shun Chonabayashi, Thomas Hertel)**, _Earth's Future_, 10, e2022EF002777, 2022
-&nbsp;  
 
 ## Selected Works in Progress
 - The Holy Dip: Religion, River Pollution, and Health Consequences in India (with Moogdho Mahzab and Sheetal Sekhri)
