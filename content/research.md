@@ -61,6 +61,6 @@ thumbnail= "images/thumbnail1.jpg"
 
 - Urban-Rural Sanitation Market and Child Mortality: Evidence from Interwar Tokyo (with Tatsuki Inoue)
 
-- Peer Effects and Misperceptions in Sanitation Use in Rural India (with Takeshi Fukasawa)
+- Peer Effects and Misperceptions in Sanitation Use in Rural India (with Ujjayant Chakravorty and Takeshi Fukasawa)
 
 - VIIRS and the Future of Night Lights Data in Economics (with Paul Brimble, Axel Ezimendi-Larrinaga, and Adam Storeygard)
