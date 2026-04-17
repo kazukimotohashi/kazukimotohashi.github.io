@@ -7,7 +7,7 @@ thumbnail= "images/thumbnail1.jpg"
 +++
 
 ## Publications
-**[Unintended Consequences of Sanitation Investment: Negative Externalities on Water Quality and Health in India](https://doi.org/10.1016/j.jdeveco.2026.103793)** _Journal of Development Economics_ (2026), 182, 103793
+**[Unintended Consequences of Sanitation Investment: Negative Externalities on Water Quality and Health in India](https://doi.org/10.1016/j.jdeveco.2026.103793)**, _Journal of Development Economics_ (2026), 182, 103793
 
 {{< detail-tag "Media Coverage" >}}
   [World Bank Blog Post](https://blogs.worldbank.org/impactevaluations/unintended-water-pollution-externalities-latrine-construction-india-guest-post), [VoxDev Article](https://voxdev.org/topic/infrastructure/sanitation-investments-water-pollution-and-health-lessons-india)
@@ -18,7 +18,7 @@ thumbnail= "images/thumbnail1.jpg"
 {{< /detail-tag >}}
 &nbsp;
 
-**[The Poverty Impacts of Labor Heat Stress in West Africa under a Warming Climate](https://doi.org/10.1029/2022EF002777) (with Wajiha Saeed, Iman Haqiqi, Qinqin Kong, Matthew Huber, Jonathan Buzan, Shun Chonabayashi, Thomas Hertel)**, _Earth's Future_, 10, e2022EF002777, 2022
+**[The Poverty Impacts of Labor Heat Stress in West Africa under a Warming Climate](https://doi.org/10.1029/2022EF002777) (with Wajiha Saeed, Iman Haqiqi, Qinqin Kong, Matthew Huber, Jonathan Buzan, Shun Chonabayashi, Thomas Hertel)**, _Earth's Future_ (2022), 10, e2022EF002777
 &nbsp;
 
 ## Working Papers
