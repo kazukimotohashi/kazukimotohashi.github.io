@@ -22,7 +22,7 @@ thumbnail= "images/thumbnail1.jpg"
 &nbsp;
 
 ## Working Papers
-**[The Impact of Municipal Mergers on Pollution Control: Evidence from River Pollution in Japan](https://kazukimotohashi.github.io/research/MT_Merger_WQ.pdf) (with Michiyoshi Toya)**
+**[The Impact of Municipal Mergers on Pollution Control: Evidence from River Pollution in Japan](https://kazukimotohashi.github.io/research/MT_Merger_WQ.pdf) (with Michiyoshi Toya)** Revise and Resubmit at the _Journal of Urban Economics_
 
 {{< detail-tag Abstract >}}
   Municipal mergers that consolidate multiple municipalities can improve environmental quality by internalizing pollution spillovers but may also weaken pollution control due to coordination costs and political power imbalances between participating municipalities. We examine the environmental effect of municipal mergers by exploiting their staggered implementation in Japan, which halved the number of municipalities. We find that municipal mergers increase river pollution by 5.4%, persisting for 14 years. These effects are driven by equal-footing mergers with high coordination costs and incorporated municipalities with little political power. We find no evidence supporting alternative mechanisms, including changes in pollution spillover patterns and land use.
