@@ -78,3 +78,92 @@ All content pages use TOML front matter (`+++`) with: `description`, `date`, `au
 - Math: KaTeX with `\( \)` inline, `\[ \]` or `$$ $$` block
 - The `detail-tag` shortcode depends on JS in `custom.js` — if modifying toggle behavior, update both files together
 - The CV PDF (`CV_KazukiMotohashi.pdf`) lives only in the build output `docs/cv/`, not in `static/` or `content/`. Hugo preserves it across normal builds, but avoid `--cleanDestinationDir` or deleting `docs/` entirely
+
+## Work Notes (`note/`)
+
+Every non-trivial task should leave a self-contained note under `note/` so future sessions can reconstruct **why** the work was done, **what** was decided, **what** happened, and **what** is left. (Hugo only renders `content/`, so `note/` does not appear on the public site.)
+
+### Naming Convention
+
+```
+note/YYYY-MM-DD_<topic>.md         ← single MD (default)
+note/YYYY-MM-DD_<topic>/           ← folder (long-running tasks only)
+    ├── README.md                  ← purpose + status + links to other files
+    ├── plan.md                    ← Context + Plan
+    ├── tasks.md                   ← TODO / progress checklist
+    ├── execution.md               ← timestamped action log
+    └── results.md                 ← outputs + reflection
+```
+
+- `<topic>` is a short snake_case English slug (e.g. `gallery_redesign`).
+- `YYYY-MM-DD` is the **start date** of the work, not the completion date — keep it fixed even if work spans multiple days.
+
+### Single MD vs Folder
+
+Use a **folder** if any of these hold; otherwise use a **single MD** (default):
+
+1. The work is expected to span **5+ tasks** or **multiple sessions**.
+2. **Multiple templates, shortcodes, or content pages** will be created or substantially refactored.
+3. The work involves **design choices or layout comparison**.
+4. The note will be **continuously appended** over a long period.
+
+When in doubt, start with a single MD and promote to a folder once it grows.
+
+### Single-MD Template
+
+```markdown
+# <Title>
+
+**Date**: YYYY-MM-DD
+**Status**: In Progress | Complete | Blocked
+**Related Code**: <relative path(s)>
+**Branch**: <git branch>
+
+---
+
+## Context
+Why this work is needed; the underlying problem or motivation.
+
+## Plan
+The chosen approach (not alternatives). May be copied/condensed from the
+plan-mode plan file.
+
+## Tasks
+- [x] Task 1
+- [ ] Task 2
+
+## Execution Log
+- YYYY-MM-DD HH:MM — Did X. Found Y.
+- YYYY-MM-DD HH:MM — Hit issue Z; resolved by W.
+
+## Results
+What changed, outputs produced, validation results, decision rationale.
+
+## Reflection / TODO
+Lessons learned, follow-ups, unresolved items.
+```
+
+### Folder File Roles
+
+| File | Role | When created/updated |
+|------|------|----------------------|
+| `README.md` | One-line purpose, status, links to other files | At plan-confirmation time |
+| `plan.md` | Context + Plan (copied/adapted from the plan file) | At plan-confirmation time |
+| `tasks.md` | Checklist-style TODO list | At plan-confirmation; updated continuously |
+| `execution.md` | Timestamped action log | Appended after each task completion |
+| `results.md` | Outputs, validation, reflection | At work completion |
+
+### Update Triggers
+
+| Trigger | Action |
+|---------|--------|
+| **Plan confirmed** (after `ExitPlanMode` approval) | Create the file/folder; populate Context, Plan, Tasks. |
+| **Task completed** (TodoWrite item flipped to `completed`) | Tick the box in Tasks; append 1–2 lines to Execution Log. |
+| **Work completed** (end of session, or before commit/PR) | Fill in Results and Reflection; set Status to `Complete`. |
+
+### Rules and Cautions
+
+- **Do not rewrite or restructure existing notes** — preserve historical formats as-is.
+- **Do not paste large log dumps** into notes. Reference file paths instead.
+- **Do not include any draft or unpublished personal information** that should not be public — even though `note/` is excluded from the Hugo build, the repo is public on GitHub.
+- Headers, keywords, and code blocks should remain in English; prose may be in Japanese.
