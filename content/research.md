@@ -18,9 +18,6 @@ thumbnail= "images/thumbnail1.jpg"
 {{< /detail-tag >}}
 &nbsp;
 
-**[The Poverty Impacts of Labor Heat Stress in West Africa under a Warming Climate](https://doi.org/10.1029/2022EF002777) (with Wajiha Saeed, Iman Haqiqi, Qinqin Kong, Matthew Huber, Jonathan Buzan, Shun Chonabayashi, Thomas Hertel)**, _Earth's Future_ (2022), 10, e2022EF002777
-&nbsp;
-
 ## Working Papers
 **[The Impact of Municipal Mergers on Pollution Control: Evidence from River Pollution in Japan](https://kazukimotohashi.github.io/research/MT_Merger_WQ.pdf) (with Michiyoshi Toya)** Revise and Resubmit at the _Journal of Urban Economics_
 
