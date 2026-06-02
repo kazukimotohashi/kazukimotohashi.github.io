@@ -52,7 +52,7 @@ thumbnail= "images/thumbnail1.jpg"
 &nbsp;
 
 ## Selected Works in Progress
-- The Holy Dip: Religion, River Pollution, and Health Consequences in India (with Moogdho Mahzab and Sheetal Sekhri)
+- Temporary Mass Gatherings, Water Pollution, and Child Health in India (with Moogdho Mahzab and Sheetal Sekhri)
 
 - Structural Transformation and Caste Discrimination in Village India (with Michael Neubauer and Shunsuke Tsuda)
 
