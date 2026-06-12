@@ -1,0 +1,8 @@
+<div class="activity-card">
+  <span class="activity-card__badge activity-card__badge--{{ .Get "cat" | default "other" }}">{{ .Get "type" }}</span>
+  {{ with .Get "year" }}<span class="activity-card__year">{{ . }}</span>{{ end }}
+  <div class="activity-card__content">
+    {{ with .Get "link" }}<a class="activity-card__title" href="{{ . }}" target="_blank" rel="noopener">{{ $.Get "title" }}</a>{{ else }}<span class="activity-card__title">{{ .Get "title" }}</span>{{ end }}
+    {{ with .Get "source" }}<span class="activity-card__source">{{ . }}</span>{{ end }}
+  </div>
+</div>

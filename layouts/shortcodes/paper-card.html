@@ -1,0 +1,20 @@
+<div class="paper-card">
+  <div class="paper-card__main">
+    <div class="paper-card__image">
+      <img src="{{ .Get "img" | relURL }}" alt="{{ .Get "title" }}" loading="lazy">
+    </div>
+    <div class="paper-card__body">
+      <a class="paper-card__title" href="{{ .Get "link" }}" target="_blank" rel="noopener">{{ .Get "title" }}</a>
+      <p class="paper-card__journal">{{ .Get "journal" | markdownify }}</p>
+      <div class="paper-card__summary">
+        {{ .Inner | markdownify }}
+      </div>
+    </div>
+  </div>
+  {{ with .Get "video" }}
+  <div class="paper-card__video">
+    {{ with $.Get "video_caption" }}<p class="paper-card__video-caption">{{ . }}</p>{{ end }}
+    <iframe src="https://www.youtube.com/embed/{{ . }}" title="解説動画" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </div>
+  {{ end }}
+</div>

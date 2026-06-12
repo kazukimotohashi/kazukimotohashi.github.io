@@ -1,0 +1,11 @@
+<div class="activity-card video-card">
+  <span class="activity-card__badge activity-card__badge--video">{{ .Get "type" | default "動画" }}</span>
+  {{ with .Get "year" }}<span class="activity-card__year">{{ . }}</span>{{ end }}
+  <div class="activity-card__content">
+    <span class="activity-card__title">{{ .Get "title" }}</span>
+    {{ with .Inner }}<div class="video-card__desc">{{ . | markdownify }}</div>{{ end }}
+    <div class="video-card__embed">
+      <iframe src="https://www.youtube.com/embed/{{ .Get "video" }}" title="{{ .Get "title" }}" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+  </div>
+</div>
