@@ -13,8 +13,6 @@ My research interests are in environmental economics and development economics, 
 
 Contact: [kazuki.motohashi@r.hit-u.ac.jp](mailto:kazuki.motohashi@r.hit-u.ac.jp)
 
-Upcoming Presentations: University of Tsukuba (November 5, 2026)
-
 <!--
-Upcoming Presentations: The University of Tokyo (October 10, 2025)
+Upcoming Presentations: University of Tsukuba (November 5, 2026)
 -->
