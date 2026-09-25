@@ -29,7 +29,7 @@ thumbnail= "images/thumbnail1.jpg"
 **[Extreme Temperatures and Adaptive Health Investment: Evidence from Sanitation Behaviors in India](https://kazukimotohashi.github.io/research/Sanitation_Temperature_Motohashi.pdf)**
 
 {{< detail-tag Abstract >}}
-  Extreme temperatures are known to negatively aﬀect health in the short term, yet their persistent eﬀects remain underexplored. This paper examines how extreme temperatures encourage adaptive investments in health technologies over time. Using data on temperature and latrine construction in rural India, I find that an additional cold or hot day cumulatively increases latrine investment by 1-10%. Heterogeneity analyses highlight the discomfort channel, where households construct latrines to avoid walking outside for open defecation under extreme temperatures. The health benefits from this increased latrine investment are comparable in magnitude to existing estimates of the negative impacts of extreme temperatures.
+  Extreme temperatures are known to negatively aﬀect health in the short run, yet their persistent eﬀects remain underexplored. This paper examines whether extreme temperatures encourage adaptive investments in health technologies over time. Exploiting year-to-year variation in temperature within districts in rural India, I find that cold and hot days persistently increase the latrine stock over multiple years. Heterogeneity analyses suggest a discomfort channel, whereby households construct latrines to avoid walking outside for open defecation under extreme temperatures. The health benefits from this increased latrine investment are comparable in magnitude to existing estimates of the negative health impacts of extreme temperatures.
 {{< /detail-tag >}}
 &nbsp;
 
